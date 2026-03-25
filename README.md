@@ -114,7 +114,7 @@ Remove um brinquedo.
 ### 🔹 POST - Criar Brinquedo
 
 **Requisição**
-![POST](./images/post.png)
+![POST](./images/post-image.png)
 
 **Resultado**
 ![POST Resultado](./images/post-resultado.png)
@@ -144,7 +144,7 @@ Remove um brinquedo.
 ### 🔹 PUT - Atualizar Brinquedo
 
 **Requisição**
-![PUT](./images/put.png)
+![PUT](./images/put-image.png)
 
 **Resultado**
 ![PUT Resultado](./images/put-resultado.png)
@@ -264,6 +264,7 @@ A tabela criada contém os campos:
 - Persistência de dados funcionando
 - Testes unitários garantindo integridade das operações
 - Documentação clara via Swagger
+- Evidências de execuções
 
 ---
 
